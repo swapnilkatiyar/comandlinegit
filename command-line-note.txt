@@ -1,9 +1,26 @@
-1.create a folder by typing ----->mkdir foldername
-2.add path to create file for this folder by typing------->cd foldername
-3.add a file on folder[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[Ccreate [C[C[C[C[C[C[C[Ca file on folder by typing------> cat > filename.ext
-4.write code or text on this file
-5.exit from this file by press ctr+d
-6.write in a file by type---->vim filename.ext (vim is a defalt text editor comes with linux)
-7.press ctr+r to enter vim inser mode
-8.now press  ctr+c to exit from vim insert mode
-9.first press ctr+c to eit from insert mode now type a command :x
+*****************************************
+
+   CREATING A PROJECT FOLDER AND FILE BY COMMAND LINE LINUX
+
+*****************************************
+1.Create a folder by typing ----->mkdir foldername
+2.Add path to create file for this folder by typing------->cd foldername
+3.Add a file on folder file on folder by typing------> cat > filename.ext
+4.Write code or text on this file
+5.Exit from this file by press ctr+d
+6.Write in a file by type---->vim filename.ext (vim is a defalt text editor comes with linux)
+7.Press ctr+r to enter vim inser mode
+8.Now press  ctr+c to exit from vim insert mode
+9.First press ctr+c to eit from insert mode now type a command :x
+
+******************************************
+
+    ADDING  A LOCAL GIT REPOSITORY TO REMOTE GIT HUB
+
+*******************************************
+1.Initialie a local project dericotory to git repository by typing ------>git init
+2.Add the files to your new local git repository by typing ------- > git add .
+3.Commit the file in your local repository by typing -------> git commit -m "here type your commit in double quodes"
+4.Add your local repository to remote github repository by typing ------> git remote add origin "remote repository url"
+
+checking
