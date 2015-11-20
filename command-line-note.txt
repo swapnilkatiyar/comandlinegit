@@ -1,0 +1,9 @@
+1.create a folder by typing ----->mkdir foldername
+2.add path to create file for this folder by typing------->cd foldername
+3.add a file on folder[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[Ccreate [C[C[C[C[C[C[C[Ca file on folder by typing------> cat > filename.ext
+4.write code or text on this file
+5.exit from this file by press ctr+d
+6.write in a file by type---->vim filename.ext (vim is a defalt text editor comes with linux)
+7.press ctr+r to enter vim inser mode
+8.now press  ctr+c to exit from vim insert mode
+9.first press ctr+c to eit from insert mode now type a command :x
