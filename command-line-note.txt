@@ -23,4 +23,12 @@
 3.Commit the file in your local repository by typing -------> git commit -m "here type your commit in double quodes"
 4.Add your local repository to remote github repository by typing ------> git remote add origin "remote repository url"
 
-checking
+********************************************************************************************
+
+    ADDING A COMMINT ON LOCAL REPOSITORY AND UPDATE YOUR COMMENT TO REMTE GITHUB REPOSITORY
+
+*********************************************************************************************
+1. First open a file in a code editor and chande curent file
+2. Now add file to git by typing command-------> git add filename.ext
+3. Now commit the by file by typing command in repo------>git commint "commit here in doube quodes"
+4. Push the commint message from our local git repository to romote github repository-------> 
